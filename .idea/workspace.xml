@@ -20,37 +20,37 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS-Shipping" />
-      <config projectName="UE4" targetName="FakeTarget" />
-      <config projectName="UE4" targetName="UE4Game" />
       <config projectName="UE4" targetName="UE4Game-TVOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker-IOS" />
-      <config projectName="UE4" targetName="BovineHacker-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Editor" />
-      <config projectName="UE4" targetName="BovineHacker-TVOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
       <config projectName="UE4" targetName="UE4Game-Mac-Shipping" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-DebugGame" />
-      <config projectName="UE4" targetName="BovineHacker-TVOS" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BovineHacker-Mac-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
       <config projectName="UE4" targetName="BovineHacker-IOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker-IOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS" />
-      <config projectName="UE4" targetName="UE4Game-IOS" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS-DebugGame" />
       <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
-      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BovineHacker-Mac-Shipping" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor" />
-      <config projectName="UE4" targetName="UE4Game-TVOS" />
+      <config projectName="UE4" targetName="FakeTarget" />
+      <config projectName="UE4" targetName="BovineHacker-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-IOS" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-DebugGame" />
       <config projectName="UE4" targetName="UE4Game-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker-IOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-TVOS" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS" />
       <config projectName="UE4" targetName="UE4Editor-Mac-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker" />
+      <config projectName="UE4" targetName="BovineHacker-TVOS" />
+      <config projectName="UE4" targetName="UE4Editor" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-Shipping" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker-IOS" />
+      <config projectName="UE4" targetName="BovineHacker-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker-Mac-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS" />
+      <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS-DebugGame" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -60,8 +60,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca1e4a9-34f6-4d3a-b5b6-9d3c221800cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" afterDir="false" />
     </list>
@@ -89,8 +89,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
-  <component name="RunManager" selected="CMake Application.FakeTarget">
+  <component name="RunManager" selected="CMake Application.BovineHackerGameEditor">
     <configuration name="BovineHacker-IOS-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="BovineHacker-IOS-DebugGame" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -247,37 +248,37 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.BovineHacker" />
-      <item itemvalue="CMake Application.BovineHacker-IOS" />
       <item itemvalue="CMake Application.BovineHacker-IOS-DebugGame" />
       <item itemvalue="CMake Application.BovineHacker-IOS-Shipping" />
+      <item itemvalue="CMake Application.BovineHacker-IOS" />
       <item itemvalue="CMake Application.BovineHacker-Mac-DebugGame" />
       <item itemvalue="CMake Application.BovineHacker-Mac-Shipping" />
-      <item itemvalue="CMake Application.BovineHacker-TVOS" />
       <item itemvalue="CMake Application.BovineHacker-TVOS-DebugGame" />
       <item itemvalue="CMake Application.BovineHacker-TVOS-Shipping" />
-      <item itemvalue="CMake Application.BovineHackerGameEditor" />
-      <item itemvalue="CMake Application.BovineHackerGameEditor-IOS" />
+      <item itemvalue="CMake Application.BovineHacker-TVOS" />
       <item itemvalue="CMake Application.BovineHackerGameEditor-IOS-DebugGame" />
       <item itemvalue="CMake Application.BovineHackerGameEditor-IOS-Shipping" />
+      <item itemvalue="CMake Application.BovineHackerGameEditor-IOS" />
       <item itemvalue="CMake Application.BovineHackerGameEditor-Mac-DebugGame" />
       <item itemvalue="CMake Application.BovineHackerGameEditor-Mac-Shipping" />
-      <item itemvalue="CMake Application.BovineHackerGameEditor-TVOS" />
       <item itemvalue="CMake Application.BovineHackerGameEditor-TVOS-DebugGame" />
       <item itemvalue="CMake Application.BovineHackerGameEditor-TVOS-Shipping" />
+      <item itemvalue="CMake Application.BovineHackerGameEditor-TVOS" />
+      <item itemvalue="CMake Application.BovineHackerGameEditor" />
+      <item itemvalue="CMake Application.BovineHacker" />
       <item itemvalue="CMake Application.FakeTarget" />
-      <item itemvalue="CMake Application.UE4Editor" />
       <item itemvalue="CMake Application.UE4Editor-Mac-DebugGame" />
       <item itemvalue="CMake Application.UE4Editor-Mac-Shipping" />
-      <item itemvalue="CMake Application.UE4Game" />
-      <item itemvalue="CMake Application.UE4Game-IOS" />
+      <item itemvalue="CMake Application.UE4Editor" />
       <item itemvalue="CMake Application.UE4Game-IOS-DebugGame" />
       <item itemvalue="CMake Application.UE4Game-IOS-Shipping" />
+      <item itemvalue="CMake Application.UE4Game-IOS" />
       <item itemvalue="CMake Application.UE4Game-Mac-DebugGame" />
       <item itemvalue="CMake Application.UE4Game-Mac-Shipping" />
-      <item itemvalue="CMake Application.UE4Game-TVOS" />
       <item itemvalue="CMake Application.UE4Game-TVOS-DebugGame" />
       <item itemvalue="CMake Application.UE4Game-TVOS-Shipping" />
+      <item itemvalue="CMake Application.UE4Game-TVOS" />
+      <item itemvalue="CMake Application.UE4Game" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -294,6 +295,12 @@
       <workItem from="1595237639934" duration="1930000" />
       <workItem from="1595240009109" duration="3236000" />
       <workItem from="1595312102289" duration="1110000" />
+      <workItem from="1595315516659" duration="1763000" />
+      <workItem from="1595317626765" duration="506000" />
+      <workItem from="1595318153312" duration="1034000" />
+      <workItem from="1595334336064" duration="1237000" />
+      <workItem from="1595336112201" duration="950000" />
+      <workItem from="1595337665760" duration="39000" />
     </task>
     <servers />
   </component>
@@ -317,9 +324,17 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595237887736" />
-    <state x="597" y="211" width="1106" height="594" key="find.popup" timestamp="1595243367437">
+    <state x="397" y="199" key="SettingsEditor" timestamp="1595316014610">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="597" y="211" width="1106" height="594" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595243367437" />
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595316014610" />
+    <state x="430" y="282" width="1106" height="594" key="find.popup" timestamp="1595335592988">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="430" y="282" width="1106" height="594" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595335592988" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1595318092171">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595318092171" />
   </component>
 </project>
