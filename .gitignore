@@ -81,4 +81,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # CMake files for builds
+CMakeLists.txt
 cmake-build-debug/*

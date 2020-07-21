@@ -61,6 +61,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eca1e4a9-34f6-4d3a-b5b6-9d3c221800cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,6 +293,7 @@
       <workItem from="1595237543272" duration="8000" />
       <workItem from="1595237639934" duration="1930000" />
       <workItem from="1595240009109" duration="3236000" />
+      <workItem from="1595312102289" duration="1110000" />
     </task>
     <servers />
   </component>
