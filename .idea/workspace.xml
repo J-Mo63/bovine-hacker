@@ -20,37 +20,37 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="UE4" targetName="UE4Game-TVOS-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-Mac-Shipping" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BovineHacker-Mac-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="BovineHacker-IOS-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
-      <config projectName="UE4" targetName="FakeTarget" />
-      <config projectName="UE4" targetName="BovineHacker-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-IOS" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BovineHacker-IOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-TVOS" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS" />
-      <config projectName="UE4" targetName="UE4Editor-Mac-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker" />
-      <config projectName="UE4" targetName="BovineHacker-TVOS" />
-      <config projectName="UE4" targetName="UE4Editor" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-Shipping" />
       <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker-IOS" />
-      <config projectName="UE4" targetName="BovineHacker-TVOS-Shipping" />
-      <config projectName="UE4" targetName="BovineHacker-Mac-Shipping" />
-      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor" />
-      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS" />
+      <config projectName="UE4" targetName="FakeTarget" />
       <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="UE4Game-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker-IOS" />
+      <config projectName="UE4" targetName="BovineHacker-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Editor" />
+      <config projectName="UE4" targetName="BovineHacker-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-Mac-Shipping" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-DebugGame" />
+      <config projectName="UE4" targetName="BovineHacker-TVOS" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS" />
+      <config projectName="UE4" targetName="BovineHacker-IOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-IOS-Shipping" />
+      <config projectName="UE4" targetName="BovineHacker-IOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS" />
+      <config projectName="UE4" targetName="UE4Game-IOS" />
       <config projectName="UE4" targetName="BovineHackerGameEditor-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BovineHacker-Mac-Shipping" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor" />
+      <config projectName="UE4" targetName="UE4Game-TVOS" />
+      <config projectName="UE4" targetName="UE4Game-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BovineHackerGameEditor-Mac-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor-Mac-Shipping" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -60,12 +60,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca1e4a9-34f6-4d3a-b5b6-9d3c221800cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/j_mo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/j_mo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/j_mo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.h" afterDir="false" />
@@ -88,6 +85,9 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-FakeTarget" />
+  </component>
   <component name="ProjectId" id="1ewfNx5Qx6Ar09cVRPIwN2C0bYQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -102,6 +102,11 @@
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Content/WordLists" />
+    </key>
   </component>
   <component name="RunManager" selected="CMake Application.BovineHackerGameEditor">
     <configuration name="BovineHacker-IOS-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="BovineHacker-IOS-DebugGame" CONFIG_NAME="Debug">
@@ -314,7 +319,8 @@
       <workItem from="1595336112201" duration="950000" />
       <workItem from="1595337665760" duration="2998000" />
       <workItem from="1595381350710" duration="4388000" />
-      <workItem from="1595387508203" duration="3680000" />
+      <workItem from="1595387508203" duration="3770000" />
+      <workItem from="1595426877894" duration="4231000" />
     </task>
     <servers />
   </component>

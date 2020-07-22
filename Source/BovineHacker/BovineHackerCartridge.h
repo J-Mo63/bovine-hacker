@@ -18,11 +18,14 @@ class BOVINEHACKER_API UBovineHackerCartridge : public UCartridge
 
 	private:
 
+    TArray<FString> Words;
     FString HiddenWord;
     int32 Lives;
     bool bGameOver;
 
     void SetupGame();
+    TArray<FString> GetValidWords() const;
     void EndGame();
-    void ProcessGuess(const FString &FString);
+    void ProcessGuess(const FString& FString);
+    bool IsIsogram(const FString& FString) const;
 };
