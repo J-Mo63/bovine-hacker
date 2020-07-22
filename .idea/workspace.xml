@@ -60,10 +60,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca1e4a9-34f6-4d3a-b5b6-9d3c221800cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/j_mo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +82,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1ewfNx5Qx6Ar09cVRPIwN2C0bYQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,10 +97,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunManager" selected="CMake Application.BovineHackerGameEditor">
     <configuration name="BovineHacker-IOS-DebugGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="BovineHacker-IOS-DebugGame" CONFIG_NAME="Debug">
@@ -300,7 +312,9 @@
       <workItem from="1595318153312" duration="1034000" />
       <workItem from="1595334336064" duration="1237000" />
       <workItem from="1595336112201" duration="950000" />
-      <workItem from="1595337665760" duration="39000" />
+      <workItem from="1595337665760" duration="2998000" />
+      <workItem from="1595381350710" duration="4388000" />
+      <workItem from="1595387508203" duration="3680000" />
     </task>
     <servers />
   </component>
@@ -320,18 +334,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="716" y="217" key="#Inspections" timestamp="1595386748243">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="716" y="217" key="#Inspections/0.0.1792.1120@0.0.1792.1120" timestamp="1595386748243" />
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595237887736">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595237887736" />
-    <state x="397" y="199" key="SettingsEditor" timestamp="1595316014610">
+    <state x="456" y="247" key="SettingsEditor" timestamp="1595389562635">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595316014610" />
+    <state x="456" y="247" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595389562635" />
     <state x="430" y="282" width="1106" height="594" key="find.popup" timestamp="1595335592988">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="430" y="282" width="1106" height="594" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595335592988" />
+    <state x="680" y="358" key="refactoring.ChangeSignatureDialog" timestamp="1595392806741">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="680" y="358" key="refactoring.ChangeSignatureDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595392806741" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1595318092171">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

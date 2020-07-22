@@ -12,10 +12,17 @@ class BOVINEHACKER_API UBovineHackerCartridge : public UCartridge
 	GENERATED_BODY()
 
 	public:
+
 	virtual void BeginPlay() override;
 	virtual void OnInput(const FString& Input) override;
 
-	// Your declarations go below!
 	private:
-	
+
+    FString HiddenWord;
+    int32 Lives;
+    bool bGameOver;
+
+    void SetupGame();
+    void EndGame();
+    void ProcessGuess(const FString &FString);
 };
