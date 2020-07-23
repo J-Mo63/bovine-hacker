@@ -60,10 +60,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca1e4a9-34f6-4d3a-b5b6-9d3c221800cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/j_mo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/j_mo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BovineHacker/BovineHackerCartridge.h" afterDir="false" />
     </list>
@@ -101,7 +98,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -320,7 +317,7 @@
       <workItem from="1595337665760" duration="2998000" />
       <workItem from="1595381350710" duration="4388000" />
       <workItem from="1595387508203" duration="3770000" />
-      <workItem from="1595426877894" duration="4231000" />
+      <workItem from="1595426877894" duration="8622000" />
     </task>
     <servers />
   </component>
@@ -348,10 +345,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595237887736" />
-    <state x="456" y="247" key="SettingsEditor" timestamp="1595389562635">
+    <state x="552" y="184" key="SettingsEditor" timestamp="1595485981740">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="456" y="247" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595389562635" />
+    <state x="552" y="184" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595485981740" />
     <state x="430" y="282" width="1106" height="594" key="find.popup" timestamp="1595335592988">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
